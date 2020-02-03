@@ -7,9 +7,9 @@ All PDFs are shared in the folder named `articles`
 It is each presenter's responsibility to update the above schedule and post PDFs of the articles being reviewed to the repository. This means everyone in the lab should have this repository cloned.
 
 When you are the presenter, do the following:
- - 1) Update your local repository: `git pull origin master`
+ - 1) Update your local repository so it's up to date with the latest remote version: `git pull origin master`
  - 2) Update the excel spreadsheet
- - 3) Upload the PDF of the article you are presenting
+ - 3) Upload the PDF of the article you are presenting, delete the previous week's pdfs if you feel like it
  - 4) Update remote:
       - stage all your updates: `git add -A`
       - create a commit for your updates: `git commit -m'Updated by SOMEONE for WEEK #?'`
