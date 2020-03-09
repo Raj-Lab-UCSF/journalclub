@@ -9,7 +9,7 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
-03-09-2020 | *Diagnostic value of plasma phosphorylated tau181 in Alzheimer’s* | Elisabeth H. Thijssen et al. | Justin |
+03-09-2020 | *Diagnostic value of plasma phosphorylated tau181 in Alzheimer’s* | Elisabeth H. Thijssen et al. | Justin | [PowerPoint](https://drive.google.com/open?id=1bkU7mpCDOnQqvcGiz6xIGwboQc0fzRKC)
 03-03-2020 | *Optimising network modeling methods for fMRI* | Usama Pervaiz et al. | Xi He | [Google Slides](https://docs.google.com/presentation/d/1cp7ubdnOuy58BWpMkI1QF4RNoqwqwXQT4w0COWmwn2Y/edit?usp=sharing)
 03-02-2020 | *Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks* | Uri Hasson et al. | Xi He | [Google Slides](https://docs.google.com/presentation/d/1-UCYLgt0CrrszFaSrqPKiblyiBaySJ1QYNM75mxI0fg/edit?usp=sharing)
 03-02-2020 | | | Jenn |
