@@ -9,6 +9,8 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+03-30-2020 | *Disease-Associated Microglia: A Universal Immune Sensor of Neurodegeneration* | Deczkowska et al | Chris | [Google Slides](https://drive.google.com/file/d/12ktkWxHURAi33AyyvqdpBhsSVUisS_wd/view)
+03-30-2020 | *Evidence that alpha blocking is due to increases in system-level oscillatory damping not neuronal population desynchronisation* | Liley & Muthukumaraswamy | Xi He | [Google Slides](Muthukumaraswamy)
 03-16-2020 | *Transdiagnostic Brain Mapping in Developmental Disorder* | Roma Siugzdaite et al. | Ashish | |
 03-09-2020 | *Diagnostic value of plasma phosphorylated tau181 in Alzheimer’s* | Elisabeth H. Thijssen et al. | Justin | [PowerPoint](https://drive.google.com/open?id=1bkU7mpCDOnQqvcGiz6xIGwboQc0fzRKC)
 03-03-2020 | *Optimising network modeling methods for fMRI* | Usama Pervaiz et al. | Xi He | [Google Slides](https://docs.google.com/presentation/d/1cp7ubdnOuy58BWpMkI1QF4RNoqwqwXQT4w0COWmwn2Y/edit?usp=sharing)
