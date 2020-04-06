@@ -9,6 +9,7 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+04-06-2020 | *Enhancing face validity of mouse models of Alzheimer’s disease with natural genetic variation* | Onos et al | Justin | [Google Slides](https://docs.google.com/presentation/d/17oTlu8wsQLf1Buo7QhRljzo221gA3UPrSkuVvLTNmi0/edit?usp=sharing)
 03-30-2020 | *Disease-Associated Microglia: A Universal Immune Sensor of Neurodegeneration* | Deczkowska et al | Chris | [Google Slides](https://drive.google.com/file/d/12ktkWxHURAi33AyyvqdpBhsSVUisS_wd/view)
 03-30-2020 | *Evidence that alpha blocking is due to increases in system-level oscillatory damping not neuronal population desynchronisation* | Liley & Muthukumaraswamy | Xi He | [Google Slides](Muthukumaraswamy)
 03-16-2020 | *Transdiagnostic Brain Mapping in Developmental Disorder* | Roma Siugzdaite et al. | Ashish | |
