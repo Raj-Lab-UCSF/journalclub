@@ -9,7 +9,7 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
-04-13-2020 | *Spectral mapping of brain functional connectivity from diffusion imaging* revisited | Becker et al | Jenn | 
+04-13-2020 | *Spectral mapping of brain functional connectivity from diffusion imaging* revisited | Becker et al | Jenn |
 04-06-2020 | *Spectral mapping of brain functional connectivity from diffusion imaging* | Becker et al | Jenn | [Google Slides](https://docs.google.com/presentation/d/1ffcv2yyfAY-tw8TRMkEa6mqfPYvATsO7dHuxVquBnww/edit?usp=sharing)
 04-06-2020 | *Enhancing face validity of mouse models of Alzheimer’s disease with natural genetic variation* | Onos et al | Justin | [Google Slides](https://docs.google.com/presentation/d/17oTlu8wsQLf1Buo7QhRljzo221gA3UPrSkuVvLTNmi0/edit?usp=sharing)
 03-30-2020 | *Disease-Associated Microglia: A Universal Immune Sensor of Neurodegeneration* | Deczkowska et al | Chris | [Google Slides](https://drive.google.com/file/d/12ktkWxHURAi33AyyvqdpBhsSVUisS_wd/view)
@@ -30,4 +30,4 @@ When you are the presenter, do the following:
       - create a commit for your updates: `git commit -m'Updated by SOMEONE for WEEK #?'`
       - push changes: `git push origin master`
 
-Zoom link for video conference: https://ucsf.zoom.us/j/550835956
+Please use new link posted in `rajlab-general` slack channel or use personal meeting IDs posted on the day of journal club meeting.
