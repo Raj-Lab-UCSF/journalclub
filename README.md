@@ -9,6 +9,7 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+05-04-2020 | *Systematic Integration of Structural and Functional Data into Multi-scale Models of Mouse Primary Visual Cortex* | Billeh et al | Pedro | PDF 
 04-27-2020 | *An electroencephalographic signature predicts antidepressant response in major depression* | Wu et al | Xi He | [Google Slides](https://docs.google.com/presentation/d/1umKlQKwqofyw-dyEK6tiCbnP3BvMyP4-vUUXQdvPcfI/edit?usp=sharing)
 04-13-2020 | *Spectral mapping of brain functional connectivity from diffusion imaging* revisited | Becker et al | Jenn |
 04-06-2020 | *Spectral mapping of brain functional connectivity from diffusion imaging* | Becker et al | Jenn | [Google Slides](https://docs.google.com/presentation/d/1ffcv2yyfAY-tw8TRMkEa6mqfPYvATsO7dHuxVquBnww/edit?usp=sharing)
