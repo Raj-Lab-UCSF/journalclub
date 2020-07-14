@@ -12,7 +12,7 @@ Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 07-07-2020 | *OHBM 2020 Meeting Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/15F9meb3ZSi3BHk3JmOHxQW-_AsfVvV2s/view?usp=sharing)
 06-30-2020 | *OHBM 2020 Meeting Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/1zORVDCfh3fNemNRbYa92nRNjQNsmdbPi/view?usp=sharing)
 06-22-2020 | *OHBM 2020 BrainHack Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/1cv_hoJNcsd9zx5wDmSHNXdQKT5ph4aYW/view?usp=sharing)
-06-08-2020 | *Brain Initiative Investigators Meeting summary* | Multiple presenters | [Slides](https://drive.google.com/file/d/1U5_rG3wfdH50QATDFEruOoClX59wQzcC/view?usp=sharing)
+06-08-2020 | *Brain Initiative Investigators Meeting summary* | Multiple presenters | Parul Verma | [Slides](https://drive.google.com/file/d/1U5_rG3wfdH50QATDFEruOoClX59wQzcC/view?usp=sharing)
 05-11-2020 | *Associative white matter connecting the dorsal and ventral posterior human cortex* | Bullock et al | Xi He | [Google Slides](https://docs.google.com/presentation/d/1vCmz1ogjY-pRtkx22yRXQ_g4fVini2SZVSjCFG9_oW4/edit?usp=sharing)
 05-04-2020 | *Systematic Integration of Structural and Functional Data into Multi-scale Models of Mouse Primary Visual Cortex* | Billeh et al | Pedro | PDF
 04-27-2020 | *An electroencephalographic signature predicts antidepressant response in major depression* | Wu et al | Xi He | [Google Slides](https://docs.google.com/presentation/d/1umKlQKwqofyw-dyEK6tiCbnP3BvMyP4-vUUXQdvPcfI/edit?usp=sharing)
