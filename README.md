@@ -9,6 +9,7 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+07-07-2020 | *OHBM Stuff | OHBM| Xi He | [Slides](https://docs.google.com/presentation/d/1di0v04AjzDiVzFfGAEo0J3wOrtGpEmd9jkLY4kGvOW8/edit?usp=sharing)
 07-07-2020 | *OHBM 2020 Meeting Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/15F9meb3ZSi3BHk3JmOHxQW-_AsfVvV2s/view?usp=sharing)
 06-30-2020 | *OHBM 2020 Meeting Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/1zORVDCfh3fNemNRbYa92nRNjQNsmdbPi/view?usp=sharing)
 06-22-2020 | *OHBM 2020 BrainHack Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/1cv_hoJNcsd9zx5wDmSHNXdQKT5ph4aYW/view?usp=sharing)
