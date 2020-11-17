@@ -9,6 +9,8 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+11-10-2020 | *Brain States and Transitions: Insights from Computational Neuroscience* | Kringelbach and Deco | Parul Verma | [Paper](https://ucsf.box.com/s/egvilcejnodulgv97w8d60rphc8f24z3)
+09-15-2020 | *Modeling regional changes in dynamic stability during sleep and wakefulness* | Ipina et al | Parul Verma | [Paper](https://ucsf.box.com/s/mthqjkuq5349fuusjigruruwt24pp0n7)
 09-15-2020 | *Neuroscience Needs Behavior: Correcting a Reductionist Bias* | Krakauer et al | Xi He | [Slides](https://docs.google.com/presentation/d/1U6NHs8sO801D806Y639gKPNSPn_4cRWaWk3PS32vFAo/edit?usp=sharing), [ResearchHub](www.researchhub.com/paper/824274/neuroscience-needs-behavior-correcting-a-reductionist-bias)
 07-27-2020 | *Intrinsic network architecture predicts the effects elicited by intracranial electrical stimulation of the human brain* | Kieran C. R. Fox et al | Xi He | [Slides](https://docs.google.com/presentation/d/1Xfd07Kz3ShTNabUE6yF7L_oz1PXyMKkFcsfuvqoTiuc/edit?usp=sharing)
 07-07-2020 | *OHBM Stuff | OHBM| Xi He | [Slides](https://docs.google.com/presentation/d/1di0v04AjzDiVzFfGAEo0J3wOrtGpEmd9jkLY4kGvOW8/edit?usp=sharing)
