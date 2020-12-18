@@ -9,6 +9,22 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+
+12-22-2020 | *Parameterizing neural power spectra into periodic and aperiodic components* | Donoghue et al | Hunter Dlugas | [Paper](https://www.nature.com/articles/s41593-020-00744-x)
+12-15-2020 | *Dynamic Causal Modeling for fMRI with Wilson-Cowan-Based Neuronal Equations* | Sadeghi et al | Hunter Dlugas | [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2020.593867/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_1498129_55_Neuros_20201203_arts_A#F5)
+11-10-2020 | *Brain States and Transitions: Insights from Computational Neuroscience* | Kringelbach and Deco | Parul Verma | [Paper](https://ucsf.box.com/s/egvilcejnodulgv97w8d60rphc8f24z3)
+09-15-2020 | *Modeling regional changes in dynamic stability during sleep and wakefulness* | Ipina et al | Parul Verma | [Paper](https://ucsf.box.com/s/mthqjkuq5349fuusjigruruwt24pp0n7)
+09-15-2020 | *Neuroscience Needs Behavior: Correcting a Reductionist Bias* | Krakauer et al | Xi He | [Slides](https://docs.google.com/presentation/d/1U6NHs8sO801D806Y639gKPNSPn_4cRWaWk3PS32vFAo/edit?usp=sharing), [ResearchHub](www.researchhub.com/paper/824274/neuroscience-needs-behavior-correcting-a-reductionist-bias)
+11-10-2020 | *Brain States and Transitions: Insights from Computational Neuroscience* | Kringelbach and Deco | Parul Verma | [Paper](https://ucsf.box.com/s/egvilcejnodulgv97w8d60rphc8f24z3)
+09-15-2020 | *Modeling regional changes in dynamic stability during sleep and wakefulness* | Ipina et al | Parul Verma | [Paper](https://ucsf.box.com/s/mthqjkuq5349fuusjigruruwt24pp0n7)
+09-15-2020 | *Neuroscience Needs Behavior: Correcting a Reductionist Bias* | Krakauer et al | Xi He | [Slides](https://docs.google.com/presentation/d/1U6NHs8sO801D806Y639gKPNSPn_4cRWaWk3PS32vFAo/edit?usp=sharing), [ResearchHub](www.researchhub.com/paper/824274/neuroscience-needs-behavior-correcting-a-reductionist-bias)
+12-15-2020 | *Dynamic Causal Modeling for fMRI with Wilson-Cowan-Based Neuronal Equations* | Sadeghi et al | Hunter Dlugas | [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2020.593867/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_1498129_55_Neuros_20201203_arts_A#F5)
+11-10-2020 | *Brain States and Transitions: Insights from Computational Neuroscience* | Kringelbach and Deco | Parul Verma | [Paper](https://ucsf.box.com/s/egvilcejnodulgv97w8d60rphc8f24z3)
+09-15-2020 | *Modeling regional changes in dynamic stability during sleep and wakefulness* | Ipina et al | Parul Verma | [Paper](https://ucsf.box.com/s/mthqjkuq5349fuusjigruruwt24pp0n7)
+09-15-2020 | *Neuroscience Needs Behavior: Correcting a Reductionist Bias* | Krakauer et al | Xi He | [Slides](https://docs.google.com/presentation/d/1U6NHs8sO801D806Y639gKPNSPn_4cRWaWk3PS32vFAo/edit?usp=sharing), [ResearchHub](www.researchhub.com/paper/824274/neuroscience-needs-behavior-correcting-a-reductionist-bias)
+11-10-2020 | *Brain States and Transitions: Insights from Computational Neuroscience* | Kringelbach and Deco | Parul Verma | [Paper](https://ucsf.box.com/s/egvilcejnodulgv97w8d60rphc8f24z3)
+09-15-2020 | *Modeling regional changes in dynamic stability during sleep and wakefulness* | Ipina et al | Parul Verma | [Paper](https://ucsf.box.com/s/mthqjkuq5349fuusjigruruwt24pp0n7)
+09-15-2020 | *Neuroscience Needs Behavior: Correcting a Reductionist Bias* | Krakauer et al | Xi He | [Slides](https://docs.google.com/presentation/d/1U6NHs8sO801D806Y639gKPNSPn_4cRWaWk3PS32vFAo/edit?usp=sharing), [ResearchHub](www.researchhub.com/paper/824274/neuroscience-needs-behavior-correcting-a-reductionist-bias)
 12-15-2020 | *Dynamic Causal Modeling for fMRI with Wilson-Cowan-Based Neuronal Equations* | Sadeghi et al | Hunter Dlugas | [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2020.593867/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_1498129_55_Neuros_20201203_arts_A#F5)
 11-10-2020 | *Brain States and Transitions: Insights from Computational Neuroscience* | Kringelbach and Deco | Parul Verma | [Paper](https://ucsf.box.com/s/egvilcejnodulgv97w8d60rphc8f24z3)
 09-15-2020 | *Modeling regional changes in dynamic stability during sleep and wakefulness* | Ipina et al | Parul Verma | [Paper](https://ucsf.box.com/s/mthqjkuq5349fuusjigruruwt24pp0n7)
