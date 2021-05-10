@@ -9,6 +9,7 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+05-04-2021 | *Single or multiple frequency generators in on-going brain activity: A mechanistic whole-brain model of empirical MEG data* | Deco et al | Parul Verma | [Slides](https://drive.google.com/file/d/13w_TfNJAvbYyn4Ci-tjX8tr3IoN31Mlz/view?usp=sharing)
 01-12-2021 | *Attenuated CSF-1R signalling drives cerebrovascular pathology* | Delaney et al | Chaitali Anand | [Paper](https://www.embopress.org/doi/full/10.15252/emmm.202012889)
 12-22-2020 | *Parameterizing neural power spectra into periodic and aperiodic components* | Donoghue et al | Hunter Dlugas | [Paper](https://www.nature.com/articles/s41593-020-00744-x)
 12-15-2020 | *Dynamic Causal Modeling for fMRI with Wilson-Cowan-Based Neuronal Equations* | Sadeghi et al | Hunter Dlugas | [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2020.593867/full?utm_source=F-AAE&utm_medium=EMLF&utm_campaign=MRK_1498129_55_Neuros_20201203_arts_A#F5)
