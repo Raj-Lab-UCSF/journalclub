@@ -9,6 +9,7 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+08-24-2021 | *Training deep neural density estimators to identify mechanistic models of neural dynamics* | Gonçalves et al | Parul Verma | [Paper](https://elifesciences.org/articles/56261)
 05-18-2021 | *Comparing spatial null models for brain maps* | Markello & Misic | Xi He | [Slides](https://docs.google.com/presentation/d/1RerwoKt7opdX9sSTJYrB6_ZEwEe4S9flc7_0iqvIF_U/edit?usp=sharing)
 05-04-2021 | *Single or multiple frequency generators in on-going brain activity: A mechanistic whole-brain model of empirical MEG data* | Deco et al | Parul Verma | [Slides](https://drive.google.com/file/d/13w_TfNJAvbYyn4Ci-tjX8tr3IoN31Mlz/view?usp=sharing)
 01-12-2021 | *Attenuated CSF-1R signalling drives cerebrovascular pathology* | Delaney et al | Chaitali Anand | [Paper](https://www.embopress.org/doi/full/10.15252/emmm.202012889)
