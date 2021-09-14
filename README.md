@@ -9,6 +9,7 @@ Latest Journal Club Updates
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+09-14-2021 | *Perturbations in dynamical models of whole-brain activity dissociate between the level and stability of consciousness* | Sanz Perl et al | Parul Verma | [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009139)
 08-24-2021 | *Training deep neural density estimators to identify mechanistic models of neural dynamics* | Gonçalves et al | Parul Verma | [Paper](https://elifesciences.org/articles/56261)
 07-20-2021 | *Is the brain macroscopically linear? A system identification of resting state dynamics* | Nozari et al | Xihe Xie and Parul Verma | [Slides](https://docs.google.com/presentation/d/1e_pTzVq3Mnq0FQhp-0frItbXEjn__j7JqHubQfbnmjw/edit?usp=sharing)
 06-22-2021 | *A biophysical model of dynamic balancing of excitation and inhibition in fast oscillatory large-scale networks* | Abesuriya et al | Parul Verma | [Slides](https://docs.google.com/presentation/d/1jSfPekOg-BHTOG0M5R68TUuSJEBz5T4e/edit?usp=sharing&ouid=103765270386163686365&rtpof=true&sd=true)
