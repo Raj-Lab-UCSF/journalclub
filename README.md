@@ -1,11 +1,19 @@
 Brain Networks Lab Journal Club
 ---
+It is each presenter's responsibility to update the schedule below and update this repository with information regarding articles being reviewed. This means everyone in the lab should have this repository cloned. To facillitate discussion, here's a list of potential papers to read, please update this list just like you would update the schedule:
+
+ - Mehler DMA, Kording KP. The lure of misleading causal statements in functional connectivity research. arXiv:181203363 [q-bio]. Published online October 23, 2020. Accessed October 18, 2021. http://arxiv.org/abs/1812.03363
+ - Wilson RC, Niv Y. Is Model Fitting Necessary for Model-Based fMRI? Boorman ED, ed. PLoS Comput Biol. 2015;11(6):e1004237. doi:10.1371/journal.pcbi.1004237
+ - Williams AH, Kunz E, Kornblith S, Linderman SW. Generalized Shape Metrics on Neural Representations. arXiv:211014739 [cs, stat]. Published online October 27, 2021. Accessed November 2, 2021. http://arxiv.org/abs/2110.14739
+
+
+
+
 
 The OLD schedule is shared [here](https://docs.google.com/spreadsheets/d/1ByGjJErnOnr8B-xiYPzZLfBsqS0NZp3QMiwtfqfAE14/edit#gid=0)
 
-It is each presenter's responsibility to update the schedule below and update this repository with information regarding articles being reviewed. This means everyone in the lab should have this repository cloned.
 
-Latest Journal Club Updates
+Latest Journal Club Presentations 
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
