@@ -17,8 +17,7 @@ Latest Journal Club Presentations
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
-22-02-2022 | *Ten simple rules for structuring papers* |  Brett Mensh and
-Konrad Kording | Parul Verma | [Slides](https://docs.google.com/presentation/d/13w_TfNJAvbYyn4Ci-tjX8tr3IoN31Mlz/edit?usp=sharing&ouid=103765270386163686365&rtpof=true&sd=true)
+22-02-2022 | *Ten simple rules for structuring papers* |  Brett Mensh and Konrad Kording | Parul Verma | [Slides](https://docs.google.com/presentation/d/13w_TfNJAvbYyn4Ci-tjX8tr3IoN31Mlz/edit?usp=sharing&ouid=103765270386163686365&rtpof=true&sd=true)
 09-14-2021 | *Perturbations in dynamical models of whole-brain activity dissociate between the level and stability of consciousness* | Sanz Perl et al | Parul Verma | [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009139)
 08-24-2021 | *Training deep neural density estimators to identify mechanistic models of neural dynamics* | Gonçalves et al | Parul Verma | [Paper](https://elifesciences.org/articles/56261)
 07-20-2021 | *Is the brain macroscopically linear? A system identification of resting state dynamics* | Nozari et al | Xihe Xie and Parul Verma | [Slides](https://docs.google.com/presentation/d/1e_pTzVq3Mnq0FQhp-0frItbXEjn__j7JqHubQfbnmjw/edit?usp=sharing)
