@@ -17,6 +17,8 @@ Latest Journal Club Presentations
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
 :---: | :---: | :--- | :--- | :---
+04-12-2022 | Surface-Based Connectivity Integration: An atlas-free approach to jointly study functional and structural connectivity | Cole and Murray et al. | Ben Sipes | [Paper] (https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25447)
+04-05-2022 | Review of multiple microstate papers | Various authors | Ben Sipes | [Slides] (https://docs.google.com/presentation/d/1TG0SBdigII3s_z_TlDXEkLekwQJQpU-I6iIyBTOGeSI/edit#slide=id.p1)
 22-02-2022 | *Ten simple rules for structuring papers* |  Brett Mensh and Konrad Kording | Parul Verma | [Slides](https://docs.google.com/presentation/d/1SpnPxDyT4lEnZTyeE8R8deiEBTz4YGpd/edit?usp=sharing&ouid=103765270386163686365&rtpof=true&sd=true)
 09-14-2021 | *Perturbations in dynamical models of whole-brain activity dissociate between the level and stability of consciousness* | Sanz Perl et al | Parul Verma | [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009139)
 08-24-2021 | *Training deep neural density estimators to identify mechanistic models of neural dynamics* | Gonçalves et al | Parul Verma | [Paper](https://elifesciences.org/articles/56261)
