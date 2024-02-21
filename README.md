@@ -1,11 +1,13 @@
 Brain Networks Lab Journal Club
 ---
+# RajLab Journal Club: Tuesdays 2-3pm
 
 **Guidelines:**
 - It is expected that everyone reads the article (at least skim it!) _before_ the Journal Club. We want to focus on the discussion, not a summary of the article.
 - Do not worry about creating a slide show. Instead, annotate the PDF directly and present the PDF. Highlight the points for discussion.
 - The paper should be of interest to at least one other person besides you. The #rajlab_journalclub channel is a good place to find articles. 
 - Each article discussion should last about 30 minutes. 10 minutes should be spent on summary, 20 minutes should be spent on discussion.
+- When your rotation is coming up, copy the top template line of the table below and update the cells. **Dont overwrite the template line!!!!**
 
 **Rotation:**
 1. Ben
@@ -18,18 +20,17 @@ Brain Networks Lab Journal Club
 
 Latest Journal Club Presentations 
 ---
-Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
-:---: | :---: | :--- | :--- | :---
+Date (MM-DD-YYYY)| Article | Author | Presenter | Article Link
+:---: | :---: | :---: | :---: | :---:
+Date | ArticleTitle | 1stAuthor | Presenter | Link
+04-16-2024 | ArticleTitle | 1stAuthor | Justin | Link
+04-09-2024 | ArticleTitle | 1stAuthor | Ashish | Link
+04-02-2024 | ArticleTitle | 1stAuthor | Robin | Link
+03-26-2024 | ArticleTitle | 1stAuthor | Huaqing | Link
+03-19-2024 | ArticleTitle | 1stAuthor | Farras | Link
+03-12-2024 | ArticleTitle | 1stAuthor | Ben | Link
+03-05-2024 | ArticleTitle | 1stAuthor | Daren | Link
+02-27-2024 | ArticleTitle | 1stAuthor | Justin | Link
 04-12-2022 | *Surface-Based Connectivity Integration: An atlas-free approach to jointly study functional and structural connectivity* | Cole and Murray et al. | Ben Sipes | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25447)
 04-05-2022 | Review of multiple microstate papers | Various authors | Ben Sipes | [Slides](https://docs.google.com/presentation/d/1TG0SBdigII3s_z_TlDXEkLekwQJQpU-I6iIyBTOGeSI/edit#slide=id.p1)
 22-02-2022 | *Ten simple rules for structuring papers* |  Brett Mensh and Konrad Kording | Parul Verma | [Slides](https://docs.google.com/presentation/d/1SpnPxDyT4lEnZTyeE8R8deiEBTz4YGpd/edit?usp=sharing&ouid=103765270386163686365&rtpof=true&sd=true)
