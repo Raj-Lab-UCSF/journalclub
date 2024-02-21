@@ -1,6 +1,6 @@
-Brain Networks Lab Journal Club
+# Brain Networks Lab Journal Club
 ---
-# RajLab Journal Club: Tuesdays 2-3pm
+## RajLab Journal Club: Tuesdays 2-3pm
 
 **Guidelines:**
 - It is expected that everyone reads the article (at least skim it!) _before_ the Journal Club. We want to focus on the discussion, not a summary of the article.
