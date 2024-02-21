@@ -9,10 +9,10 @@
 - Each article discussion should last about 30 minutes. 10 minutes should be spent on summary, 20 minutes should be spent on discussion.
 - When your rotation is coming up, copy the top template line of the table below and update the cells. **Dont overwrite the template line!!!!**
 
-**Rotation:**
-1. Ben
-2. Justin
-3. Daren
+**Rotation (by seniority):**
+1. Justin
+2. Daren
+3. Ben
 4. Farras
 5. Huaqing
 6. Robin
