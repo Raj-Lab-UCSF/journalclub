@@ -1,21 +1,34 @@
 Brain Networks Lab Journal Club
 ---
-It is each presenter's responsibility to update the schedule below and update this repository with information regarding articles being reviewed. This means everyone in the lab should have this repository cloned. To facillitate discussion, here's a list of potential papers to read, please update this list just like you would update the schedule:
 
- - Mehler DMA, Kording KP. <em>The lure of misleading causal statements in functional connectivity research.</em> arXiv:181203363 [q-bio]. Published online October 23, 2020. Accessed October 18, 2021. http://arxiv.org/abs/1812.03363
- - Wilson RC, Niv Y. <em>Is Model Fitting Necessary for Model-Based fMRI?</em> Boorman ED, ed. PLoS Comput Biol. 2015;11(6):e1004237. doi:10.1371/journal.pcbi.1004237
- - Williams AH, Kunz E, Kornblith S, Linderman SW. <em>Generalized Shape Metrics on Neural Representations.</em> arXiv:211014739 [cs, stat]. Published online October 27, 2021. Accessed November 2, 2021. http://arxiv.org/abs/2110.14739
+**Guidelines:**
+- It is expected that everyone reads the article (at least skim it!) _before_ the Journal Club. We want to focus on the discussion, not a summary of the article.
+- Do not worry about creating a slide show. Instead, annotate the PDF directly and present the PDF. Highlight the points for discussion.
+- The paper should be of interest to at least one other person besides you. The #rajlab_journalclub channel is a good place to find articles. 
+- Each article discussion should last about 30 minutes. 10 minutes should be spent on summary, 20 minutes should be spent on discussion.
 
-
-
-
-
-The OLD schedule is shared [here](https://docs.google.com/spreadsheets/d/1ByGjJErnOnr8B-xiYPzZLfBsqS0NZp3QMiwtfqfAE14/edit#gid=0)
-
+**Rotation:**
+1. Ben
+2. Justin
+3. Daren
+4. Farras
+5. Huaqing
+6. Robin
+7. Ashish
 
 Latest Journal Club Presentations 
 ---
 Date (MM-DD-YYYY)| Article | Author | Presenter | Presentation Link
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :--- | :---
 :---: | :---: | :--- | :--- | :---
 04-12-2022 | *Surface-Based Connectivity Integration: An atlas-free approach to jointly study functional and structural connectivity* | Cole and Murray et al. | Ben Sipes | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25447)
 04-05-2022 | Review of multiple microstate papers | Various authors | Ben Sipes | [Slides](https://docs.google.com/presentation/d/1TG0SBdigII3s_z_TlDXEkLekwQJQpU-I6iIyBTOGeSI/edit#slide=id.p1)
