@@ -23,8 +23,8 @@ Latest Journal Club Presentations
 Date (MM-DD-YYYY)| Article | Author | Presenter | Article Link
 :---: | :---: | :---: | :---: | :---:
 Date | ArticleTitle | 1stAuthor | Presenter | Link
-04-16-2024 | _Early Alzheimer’s disease pathology
-in human cortex involves transient cell states_ | Gazestani V | Justin | [Paper](https://pubmed.ncbi.nlm.nih.gov/37774681/)
+04-16-2024 | Early Alzheimer’s disease pathology
+in human cortex involves transient cell states | Gazestani V | Justin | [Paper](https://pubmed.ncbi.nlm.nih.gov/37774681/)
 04-09-2024 | ArticleTitle | 1stAuthor | Ashish | Link
 04-02-2024 | ArticleTitle | 1stAuthor | Robin | Link
 03-26-2024 | ArticleTitle | 1stAuthor | Huaqing | Link
