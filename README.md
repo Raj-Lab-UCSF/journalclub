@@ -23,13 +23,13 @@ Latest Journal Club Presentations
 Date (MM-DD-YYYY)| Article | Author | Presenter | Article Link
 :---: | :---: | :---: | :---: | :---:
 Date | ArticleTitle | 1stAuthor | Presenter | Link
-04-16-2024 | ArticleTitle | 1stAuthor | Justin | Link
-04-09-2024 | ArticleTitle | 1stAuthor | Ashish | Link
-04-02-2024 | ArticleTitle | 1stAuthor | Robin | Link
-03-26-2024 | ArticleTitle | 1stAuthor | Huaqing | Link
-03-19-2024 | ArticleTitle | 1stAuthor | Farras | Link
-03-12-2024 | ArticleTitle | 1stAuthor | Ben | Link
-03-05-2024 | ArticleTitle | 1stAuthor | Daren | Link
+04-23-2024 | ArticleTitle | 1stAuthor | Justin | Link
+04-16-2024 | ArticleTitle | 1stAuthor | Ashish | Link
+04-09-2024 | ArticleTitle | 1stAuthor | Robin | Link
+04-02-2024 | ArticleTitle | 1stAuthor | Huaqing | Link
+03-26-2024 | ArticleTitle | 1stAuthor | Farras | Link
+03-19-2024 | ArticleTitle | 1stAuthor | Ben | Link
+03-12-2024 | ArticleTitle | 1stAuthor | Daren | Link
 02-27-2024 | _Early Alzheimer’s disease pathology in human cortex involves transient cell states_ | Gazestani V | Justin | [Paper](https://pubmed.ncbi.nlm.nih.gov/37774681/)
 04-12-2022 | *Surface-Based Connectivity Integration: An atlas-free approach to jointly study functional and structural connectivity* | Cole and Murray et al. | Ben Sipes | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25447)
 04-05-2022 | Review of multiple microstate papers | Various authors | Ben Sipes | [Slides](https://docs.google.com/presentation/d/1TG0SBdigII3s_z_TlDXEkLekwQJQpU-I6iIyBTOGeSI/edit#slide=id.p1)
