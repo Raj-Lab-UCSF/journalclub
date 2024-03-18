@@ -28,7 +28,7 @@ Date | ArticleTitle | 1stAuthor | Presenter | Link
 04-09-2024 | ArticleTitle | 1stAuthor | Robin | Link
 04-02-2024 | ArticleTitle | 1stAuthor | Huaqing | Link
 03-26-2024 | ArticleTitle | 1stAuthor | Farras | Link
-03-19-2024 | ArticleTitle | 1stAuthor | Ben | Link
+03-19-2024 | Neural signal propagation atlas of Caenorhabditis elegans | Randi | Ben | [Link](https://doi.org/10.1038/s41586-023-06683-4)
 03-12-2024 | scGPT: toward building a foundation model for single-cell multi-omics using generative AI | Haotian Cui | Daren | [Link](https://www.nature.com/articles/s41592-024-02201-0)
 02-27-2024 | _Early Alzheimer’s disease pathology in human cortex involves transient cell states_ | Gazestani V | Justin | [Paper](https://pubmed.ncbi.nlm.nih.gov/37774681/)
 04-12-2022 | *Surface-Based Connectivity Integration: An atlas-free approach to jointly study functional and structural connectivity* | Cole and Murray et al. | Ben Sipes | [Paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25447)
@@ -48,7 +48,8 @@ Date | ArticleTitle | 1stAuthor | Presenter | Link
 09-15-2020 | *Neuroscience Needs Behavior: Correcting a Reductionist Bias* | Krakauer et al | Xi He | [Slides](https://docs.google.com/presentation/d/1U6NHs8sO801D806Y639gKPNSPn_4cRWaWk3PS32vFAo/edit?usp=sharing), [ResearchHub](www.researchhub.com/paper/824274/neuroscience-needs-behavior-correcting-a-reductionist-bias)
 07-27-2020 | *Intrinsic network architecture predicts the effects elicited by intracranial electrical stimulation of the human brain* | Kieran C. R. Fox et al | Xi He | [Slides](https://docs.google.com/presentation/d/1Xfd07Kz3ShTNabUE6yF7L_oz1PXyMKkFcsfuvqoTiuc/edit?usp=sharing)
 07-07-2020 | *OHBM Stuff | OHBM| Xi He | [Slides](https://docs.google.com/presentation/d/1di0v04AjzDiVzFfGAEo0J3wOrtGpEmd9jkLY4kGvOW8/edit?usp=sharing)
-07-07-2020 | *OHBM 2020 Meeting Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/15F9meb3ZSi3BHk3JmOHxQW-_AsfVvV2s/view?usp=sharing)
+07-07-2020 | *OHBM 2020 Meeting Summary* | OHBM | Parul Verma | [Slides](
+https://drive.google.com/file/d/15F9meb3ZSi3BHk3JmOHxQW-_AsfVvV2s/view?usp=sharing)
 06-30-2020 | *OHBM 2020 Meeting Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/1zORVDCfh3fNemNRbYa92nRNjQNsmdbPi/view?usp=sharing)
 06-22-2020 | *OHBM 2020 BrainHack Summary* | OHBM | Parul Verma | [Slides](https://drive.google.com/file/d/1cv_hoJNcsd9zx5wDmSHNXdQKT5ph4aYW/view?usp=sharing)
 06-08-2020 | *Brain Initiative Investigators Meeting summary* | Multiple presenters | Parul Verma | [Slides](https://drive.google.com/file/d/1U5_rG3wfdH50QATDFEruOoClX59wQzcC/view?usp=sharing)
