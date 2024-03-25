@@ -27,7 +27,7 @@ Date | ArticleTitle | 1stAuthor | Presenter | Link
 04-16-2024 | ArticleTitle | 1stAuthor | Ashish | Link
 04-09-2024 | ArticleTitle | 1stAuthor | Robin | Link
 04-02-2024 | ArticleTitle | 1stAuthor | Huaqing | Link
-03-26-2024 | ArticleTitle, Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference | 1stAuthor, Young | Farras, Robin | Link, [Link](https://www.nature.com/articles/s41467-018-05892-0)
+03-26-2024 | Graph learning from EEG data improves brain fingerprinting compared to correlation-based connectomes, Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference | Miri, Young | Farras, Robin | [Link](https://www.sciencedirect.com/science/article/pii/S2772569324000380), [Link](https://www.nature.com/articles/s41467-018-05892-0)
 03-19-2024 | Neural signal propagation atlas of Caenorhabditis elegans | Randi | Ben | [Link](https://doi.org/10.1038/s41586-023-06683-4)
 03-12-2024 | scGPT: toward building a foundation model for single-cell multi-omics using generative AI | Haotian Cui | Daren | [Link](https://www.nature.com/articles/s41592-024-02201-0)
 02-27-2024 | _Early Alzheimer’s disease pathology in human cortex involves transient cell states_ | Gazestani V | Justin | [Paper](https://pubmed.ncbi.nlm.nih.gov/37774681/)
