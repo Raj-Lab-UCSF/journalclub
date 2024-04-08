@@ -26,7 +26,7 @@ Date | ArticleTitle | 1stAuthor | Presenter | Link
 04-23-2024 | ArticleTitle | 1stAuthor | Justin | Link
 04-16-2024 | ArticleTitle | 1stAuthor | Ashish | Link
 04-09-2024 | Four distinct trajectories of tau deposition identified in Alzheimer’s disease | Vogel | Robin | [Link](https://www.nature.com/articles/s41591-021-01309-6)
-04-09-2024 | ArticleTitle | 1stAuthor | Ashish | [Link](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.13441) [Link](https://alzres.biomedcentral.com/articles/10.1186/s13195-024-01428-5) 
+04-09-2024 | Two recent papers on AI in AD | 1stAuthor | Ashish | [Link](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.13441) [Link](https://alzres.biomedcentral.com/articles/10.1186/s13195-024-01428-5) 
 04-02-2024 | ArticleTitle | 1stAuthor | Huaqing | Link
 03-26-2024 | Graph learning from EEG data improves brain fingerprinting compared to correlation-based connectomes, Uncovering the heterogeneity and temporal complexity of neurodegenerative diseases with Subtype and Stage Inference | Miri, Young | Farras, Robin | [Link](https://www.sciencedirect.com/science/article/pii/S2772569324000380), [Link](https://www.nature.com/articles/s41467-018-05892-0)
 03-19-2024 | Neural signal propagation atlas of Caenorhabditis elegans | Randi | Ben | [Link](https://doi.org/10.1038/s41586-023-06683-4)
