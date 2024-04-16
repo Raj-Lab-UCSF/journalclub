@@ -22,13 +22,14 @@ Latest Journal Club Presentations
 Date (MM-DD-YYYY)| Article | Author | Presenter | Article Link
 :---: | :---: | :---: | :---: | :---:
 Date | ArticleTitle | 1stAuthor | Presenter | Link
-05-28-2024 | ArticleTitle | 1stAuthor | Presenter | Link
-05-21-2024 | ArticleTitle | 1stAuthor | Ashish | Link
-05-14-2024 | ArticleTitle | 1stAuthor | Robin | Link
-05-07-2024 | ArticleTitle | 1stAuthor | Farras | Link
-04-30-2024 | ArticleTitle | 1stAuthor | Ben | Link
-04-23-2024 | ArticleTitle | 1stAuthor | Daren | Link
-04-16-2024 | ArticleTitle | 1stAuthor | Justin | Link
+06-04-2024 | ArticleTitle | 1stAuthor | Presenter | Link
+05-28-2024 | ArticleTitle | 1stAuthor | Ashish | Link
+05-21-2024 | ArticleTitle | 1stAuthor | Robin | Link
+05-14-2024 | ArticleTitle | 1stAuthor | Farras | Link
+05-07-2024 | ArticleTitle | 1stAuthor | Ben | Link
+04-30-2024 | ArticleTitle | 1stAuthor | Daren | Link
+04-23-2024 | ArticleTitle | 1stAuthor | Justin | Link
+04-16-2024 | Dynamical Bias in the Coin Toss | Diaconis | Ben | [Link](https://epubs.siam.org/doi/10.1137/S0036144504446436)
 04-09-2024 | Four distinct trajectories of tau deposition identified in Alzheimer’s disease | Vogel | Robin | [Link](https://www.nature.com/articles/s41591-021-01309-6)
 04-09-2024 | Two recent papers on AI in AD | 1stAuthor | Ashish | [Link](https://alz-journals.onlinelibrary.wiley.com/doi/epdf/10.1002/alz.13441) [Link](https://alzres.biomedcentral.com/articles/10.1186/s13195-024-01428-5) 
 04-02-2024 | The Low Rank Hypothesis of Complex Systems | Thibeault | Ben | [Link](https://doi.org/10.1038/s41567-023-02303-0)
