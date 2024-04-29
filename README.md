@@ -26,8 +26,8 @@ Date | ArticleTitle | 1stAuthor | Presenter | Link
 05-28-2024 | ArticleTitle | 1stAuthor | Ashish | Link
 05-21-2024 | ArticleTitle | 1stAuthor | Robin | Link
 05-14-2024 | ArticleTitle | 1stAuthor | Farras | Link
-05-07-2024 | ArticleTitle | 1stAuthor | Justin | Link
-04-30-2024 | ArticleTitle | 1stAuthor | Daren | Link
+05-07-2024 | ArticleTitle | 1stAuthor | Daren | Link
+04-30-2024 | Whole-cortex in situ sequencing reveals input-dependent area identity | Chen | Justin | [Link](https://www.nature.com/articles/s41586-024-07221-6)
 04-23-2024 | Layer and rhythm specificity for predictive routing | Bastos | Ben | [Link](https://pnas.org/doi/full/10.1073/pnas.2014868117)
 04-16-2024 | Dynamical Bias in the Coin Toss | Diaconis | Ben | [Link](https://epubs.siam.org/doi/10.1137/S0036144504446436)
 04-09-2024 | Four distinct trajectories of tau deposition identified in Alzheimer’s disease | Vogel | Robin | [Link](https://www.nature.com/articles/s41591-021-01309-6)
