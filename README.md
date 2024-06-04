@@ -22,7 +22,16 @@ Latest Journal Club Presentations
 Date (MM-DD-YYYY)| Article | Author | Presenter | Article Link
 :---: | :---: | :---: | :---: | :---:
 Date | ArticleTitle | 1stAuthor | Presenter | Link
-06-04-2024 | ArticlaTitle | 1stAuthor | Presenter | Link
+08-13-2024 | ArticleTitle | 1stAuthor | Ben | Link
+08-06-2024 | ArticleTitle | 1stAuthor | Daren | Link
+07-30-2024 | ArticleTitle | 1stAuthor | Justin | Link
+07-23-2024 | ArticleTitle | 1stAuthor | Ashish | Link
+07-16-2024 | ArticleTitle | 1stAuthor | Robin | Link
+07-09-2024 | ArticleTitle | 1stAuthor | Farras | Link
+07-02-2024 | ArticleTitle | 1stAuthor | Ben | Link
+06-25-2024 | ArticleTitle | 1stAuthor | Daren | Link
+06-18-2024 | ArticleTitle | 1stAuthor | Justin | Link
+06-11-2024 | ArticlaTitle | 1stAuthor | Ashish | Link
 05-28-2024 | Graph Signal Smoothness Based Feature Learning of Brain Functional Networks in Schizophrenia | X. Song | Farras | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10266363)
 05-21-2024 | Deep neural network for system of ordinary differential equations: Vectorized algorithm and simulation | Dufera | Robin | [Link](https://www.sciencedirect.com/science/article/pii/S2666827021000293)
 05-14-2024 | ArticleTitle | 1stAuthor | Farras | Link
