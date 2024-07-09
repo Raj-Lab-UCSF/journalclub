@@ -28,7 +28,7 @@ Date | ArticleTitle | 1stAuthor | Presenter | Link
 07-30-2024 | ArticleTitle | 1stAuthor | Ashish | Link
 07-23-2024 | ArticleTitle | 1stAuthor | Robin | Link
 07-16-2024 | ArticleTitle | 1stAuthor | Farras | Link
-07-09-2024 | ArticleTitle | 1stAuthor | Ben | Link
+07-09-2024 | The effect of turbulence in brain dynamics information transfer measured with magnetoencephalography | Deco | Ben | [Link](https://doi-org.ucsf.idm.oclc.org/10.1038/s42005-023-01192-2)
 07-02-2024 | ArticleTitle | 1stAuthor | Daren | Link
 06-25-2024 | Deep symbolic regression: recovering mathematical expression from data via risk-seeking policy gradients | Petersen BK | Justin | [Link](https://openreview.net/forum?id=m5Qsh0kBQG)
 06-11-2024 | ArticlaTitle | 1stAuthor | Ashish | Link
