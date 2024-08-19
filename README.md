@@ -21,11 +21,11 @@ Latest Journal Club Presentations
 Date (MM-DD-YYYY)| Article | Author | Presenter | Article Link
 :---: | :---: | :---: | :---: | :---:
 Date | ArticleTitle | 1stAuthor | Presenter | Link
-09-03-2024 | ArticleTitle | 1stAuthor | Ashish | Link
-08-27-2024 | ArticleTitle | 1stAuthor | Robin | Link
-08-20-2024 | ArticleTitle | 1stAuthor | Ben | Link
-08-13-2024 | ArticleTitle | 1stAuthor | Daren | Link
-08-06-2024 | ArticleTitle | 1stAuthor | Ashish | Link
+09-17-2024 | ArticleTitle | 1stAuthor | Justin | Link
+09-10-2024 | ArticleTitle | 1stAuthor | Ashish | Link
+09-03-2024 | ArticleTitle | 1stAuthor | Robin | Link
+08-27-2024 | ArticleTitle | 1stAuthor | Ben | Link
+08-20-2024 | ArticleTitle | 1stAuthor | Daren | Link
 07-30-2024 | Psychedelics and disorders of consciousness: the current landscape and the path forward | Cardone | Robin | [Link](https://academic.oup.com/nc/article/2024/1/niae025/7693882)
 07-09-2024 | The effect of turbulence in brain dynamics information transfer measured with magnetoencephalography | Deco | Ben | [Link](https://doi-org.ucsf.idm.oclc.org/10.1038/s42005-023-01192-2)
 07-02-2024 | ArticleTitle | 1stAuthor | Daren | Link
