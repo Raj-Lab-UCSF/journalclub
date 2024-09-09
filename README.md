@@ -21,9 +21,9 @@ Latest Journal Club Presentations
 Date (MM-DD-YYYY)| Article | Author | Presenter | Article Link
 :---: | :---: | :---: | :---: | :---:
 Date | ArticleTitle | 1stAuthor | Presenter | Link
-09-17-2024 | ArticleTitle | 1stAuthor | Justin | Link
-09-10-2024 | ArticleTitle | 1stAuthor | Ashish | Link
-09-03-2024 | ArticleTitle | 1stAuthor | Robin | Link
+09-17-2024 | ArticleTitle | 1stAuthor | Ashish | Link
+09-10-2024 | Restoring hippocampal glucose metabolism rescues cognition across Alzheimer's disease pathologies | Minhas | Robin | [Link](https://pubmed.ncbi.nlm.nih.gov/39172838/)
+09-03-2024 | ArticleTitle | 1stAuthor | Cancelled | Link
 08-27-2024 | ArticleTitle | 1stAuthor | Ben | Link
 08-20-2024 | ArticleTitle | 1stAuthor | Daren | Link
 07-30-2024 | Psychedelics and disorders of consciousness: the current landscape and the path forward | Cardone | Robin | [Link](https://academic.oup.com/nc/article/2024/1/niae025/7693882)
